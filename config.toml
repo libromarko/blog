@@ -6,7 +6,7 @@ paginate = 10
 paginatePath = '.'
 
 [params]
-    title = ""
+    title = "Blog"
     signature = ""
     cover = "/img/blog.png"
     name = "libromarko"
