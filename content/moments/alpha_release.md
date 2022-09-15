@@ -1,5 +1,4 @@
 ---
-top: asd
 name: Alpha Release
 date: 2022-09-15T15:23:10+03:00
 
