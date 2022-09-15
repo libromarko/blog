@@ -1,14 +1,13 @@
 baseURL = 'https://blog.libromarko.xyz/'
 languageCode = 'en-us'
-title = 'Blog'
+title = ''
 theme = "moments"
 paginate = 10
 paginatePath = '.'
 
 [params]
-    title = "Blog"
-    signature = "libromarko"
-    cover = "https://cdn.pixabay.com/photo/2018/03/13/22/53/puzzle-3223941_1280.jpg"
-
+    title = ""
+    signature = ""
+    cover = "/img/blog.png"
     name = "libromarko"
     avatar = "/img/play_store_512.png"
